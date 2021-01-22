@@ -109,7 +109,7 @@ def changing_alan
      
      newinfo = "GUI"
      
-  programmer_hash[:alan_kay] = {:known_for}
+  programmer_hash[:alan_kay][:known_for] = newinfo
    programmer_hash
 end
 
